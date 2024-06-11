@@ -144,5 +144,4 @@ if __name__ == "__main__":
     # Display the fetched data
     coinMarketCap.display_crypto_currency_data(cryptoName)
  
-   except:
-      print("Enter the valid crypto name")
+   except: print("Enter the valid crypto name")
